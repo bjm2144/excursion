@@ -1,0 +1,42 @@
+.header{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+}
+
+.download{
+    color: aquamarine;
+    font-size: 16px;
+    text-align: center;
+}
+
+.background{
+    background-color: black;
+    text-align: center;
+}
+
+.regular{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 300;
+    font-size: 42px;
+    text-align: center;
+}
+
+.grey{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 21px;
+    color: grey;
+}
+
+.copyright{
+    text-align: right;
+    color: grey;
+}
+
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
